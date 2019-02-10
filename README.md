@@ -51,13 +51,13 @@ unzip data.zip
 
 
 ## HTML code
-<!DOCTYPE> -  determinates document type
-<*head*> - Specifies the technical information about the document
-<*meta*> - determinates meta tegs
-<*script*> - script description
-<*link*> - establishes a connection to an external document
-<*style*> - defines the style of the elements of the web page
-<*body*> - document's body
+* <*!DOCTYPE*> -  determinates document type
+* <*head*> - Specifies the technical information about the document
+* <*meta*> - determinates meta tegs
+* <*script*> - script description
+* <*link*> - establishes a connection to an external document
+* <*style*> - defines the style of the elements of the web page
+* <*body*> - document's body
 
 ## Conclusion
 

@@ -58,7 +58,13 @@ unzip data.zip
 * <*link*> - establishes a connection to an external document
 * <*style*> - defines the style of the elements of the web page
 * <*body*> - document's body
-
+## Modules description:
+* population() - Add population child to the html map
+* file_pars() - Reads file and return all movies that were produced in that year
+* html_crtr() - Creates the httml file that has markers of movies by location
+* greeting() - Greets user and ask to input year
+* lct_to_crd() - Returns latitude and longitude by location adress
+* main() - The main fuction that starts all module
 ## Conclusion
 
 This module is useful for some statistics about people population

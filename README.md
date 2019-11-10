@@ -1,4 +1,4 @@
-# Movie html map
+# Movies map
 
 > This python module creates html file that include movie map and population map on a separated layers.
 

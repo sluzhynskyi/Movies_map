@@ -68,7 +68,7 @@ unzip data.zip
 This module is useful for some statistics about people population
 But most powerful think is the movies map that is useful not only from statistic side but also from economy side, or if you need find some studio in some country you can check is it studion in demand.
 
-## Versioning
+## Version
 02 10 2019 - demo version
 
 ## Authors
